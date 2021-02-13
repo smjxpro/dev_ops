@@ -68,6 +68,9 @@ then add the following line at the end of the file:
 
 `sudo apt install webmin`
 
+`sudo apt install libsocket6-perl` (For changing ports and addresses)
+
 ###### Visit `https://remote_IP:10000` to access Webmin
+
 
 
