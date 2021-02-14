@@ -6,11 +6,11 @@
 
 ##### Create a server block:
 
-`sudo nano /etc/nginx/sites-available/server-name.conf`
+`sudo nano /etc/nginx/sites-available/server-name`
 
 ##### Create symlink:
 
-`sudo ln -s /etc/nginx/sites-available/server-name.conf /etc/nginx/sites-enabled/`
+`sudo ln -s /etc/nginx/sites-available/server-name /etc/nginx/sites-enabled/`
 
 ##### Test configuration:
 
