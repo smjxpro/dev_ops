@@ -7,3 +7,4 @@
 ### [Nginx Server Configuration](/nginx)
 
 ### [Systemd Service Configuration](/systemd)
+### [SSH Configuration](/ssh)
